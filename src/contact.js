@@ -1,9 +1,9 @@
 import {text} from './index'
 
 const showContact = () => {
-    text.innerText= `Luis Navarro
-                        
-                        (Madrid)`
+    text.innerText= `Phil Jackson
+                        LA
+                        (California)`
     content.appendChild(text)
 }
 
